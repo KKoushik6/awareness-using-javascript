@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
     button.style.borderRadius = "5px";
     button.style.cursor = "pointer";
     
-    if (page === "vaishu4.html" || page === "") {
+    if (page === "index.html" || page === "") {
         title.innerText = "Rape Awareness & Prevention";
         text.innerText = "Sexual violence is a serious issue affecting individuals and communities worldwide. Awareness, education, and support can help prevent it.";
         button.innerText = "Get Support";
